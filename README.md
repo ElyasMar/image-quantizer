@@ -103,14 +103,6 @@ These averaged colors form the final image palette.
 
 ---
 
-## Installation
-
-```bash
-git clone <your-repository-url>
-cd advanced-octree-quantizer
-pip install -r requirements.txt
-```
-
 Dependencies typically include:
 
 * Python 3.8+
@@ -160,12 +152,6 @@ quantized_image.save("output.png")
 * Support for RGBA images
 * Dithering support
 * Parallel processing for large images
-
----
-
-## License
-
-MIT License
 
 ---
 
